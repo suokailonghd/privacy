@@ -1,5 +1,7 @@
 ---
 title: "隐私协议"
+date: 2024-10-31
+
 ---
 
 <h2 style="text-align: center">隐私协议</h2>
